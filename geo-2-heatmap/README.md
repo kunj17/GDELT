@@ -1,5 +1,6 @@
 # geo-2-heatmap
-Python lib for generating heatmap images
+Python lib for generating heatmap images.
+
 1.
 ![net](tests/100000_circles.jpg)
 
