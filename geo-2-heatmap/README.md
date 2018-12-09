@@ -1,4 +1,4 @@
-# geo-2-heatmap
+# Geo-2-HeatMap
 Python lib for generating heatmap images.
 
 1.
